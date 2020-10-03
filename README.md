@@ -5,3 +5,6 @@ Generates clash free timetable with additional features such as SMS alert to tea
 Generating and saving timetable as pdf using jsPDF.
 
 Note: downlaod and place jsPDF api in the location '..../TTMS/files/assets/' .
+
+Original GitHub Repository link: https://github.com/msaqib4203/Timetable-Management-System
+Created by: msaqib4203
